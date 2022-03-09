@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6DD42ABC-2154-482B-94D8-8BC3A0D5958A}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mission07 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission07/Pages/Admin/PurchaseTable.razor">
+    <Files>
+      <File FileName="Mission07/Pages/Admin/Purchases.razor" Line="11" Column="48" />
+      <File FileName="Mission07/Pages/Admin/PurchaseTable.razor" Line="8" Column="37" />
+      <File FileName="Mission07/Models/Purchase.cs" Line="1" Column="1" />
+      <File FileName="Mission07/Pages/Admin/Index.cshtml" Line="19" Column="36" />
+      <File FileName="Mission07/Pages/Admin/Routed.razor" Line="1" Column="1" />
+      <File FileName="Mission07/Pages/Admin/AdminLayout.razor" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission07" expanded="True">
+            <Node name="Mission07" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="PurchaseTable.razor" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
