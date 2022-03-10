@@ -1,9 +1,9 @@
 ﻿@page "/admin/purchases" 
 @inherits OwningComponentBase<IPurchaseRepository>
 
-<PurchaseTable TableTitle="Uncollected Purchases" Purchases="UncollectedPurchases" ButtonLabel="Collected" PurchaseSelected="CollectPurchase"></PurchaseTable>
+<PurchaseTable TableTitle="Unshipped Purchases" Purchases="UncollectedPurchases" ButtonLabel="Shipped" PurchaseSelected="CollectPurchase"></PurchaseTable>
 
-<PurchaseTable TableTitle="Collected Purchases" Purchases="CollectedPurchases" ButtonLabel="Reset" PurchaseSelected="ResetPurchase"></PurchaseTable>
+<PurchaseTable TableTitle="Shipped Purchases" Purchases="CollectedPurchases" ButtonLabel="Reset" PurchaseSelected="ResetPurchase"></PurchaseTable>
 
 <button class="btn btn-info" @onclick="@(x => UpdateData())">Refresh Data</button>
 

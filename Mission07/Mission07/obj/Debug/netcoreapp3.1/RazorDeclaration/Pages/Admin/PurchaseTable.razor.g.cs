@@ -70,7 +70,7 @@ using Mission07.Models;
     public IEnumerable<Purchase> Purchases { get; set; }
 
     [Parameter]
-    public string ButtonLabel { get; set; } = "Collected";
+    public string ButtonLabel { get; set; } = "Shipped";
 
     [Parameter]
     public EventCallback<int> PurchaseSelected { get; set; }
