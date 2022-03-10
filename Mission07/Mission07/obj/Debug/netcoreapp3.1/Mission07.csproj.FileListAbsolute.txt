@@ -338,3 +338,7 @@
 /Users/johnfluhman/Documents/GitHub/IS413_Mission10/Mission07/Mission07/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/_Imports.razor.g.cs
 /Users/johnfluhman/Documents/GitHub/IS413_Mission10/Mission07/Mission07/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/PurchaseTable.razor.g.cs
 /Users/johnfluhman/Documents/GitHub/IS413_Mission10/Mission07/Mission07/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/PurchaseTable.razor.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413_Mission10/Mission07/Mission07/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Details.razor.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413_Mission10/Mission07/Mission07/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Details.razor.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413_Mission10/Mission07/Mission07/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Admin/Editor.razor.g.cs
+/Users/johnfluhman/Documents/GitHub/IS413_Mission10/Mission07/Mission07/obj/Debug/netcoreapp3.1/Razor/Pages/Admin/Editor.razor.g.cs
